@@ -54,7 +54,7 @@
   defaultBranch = master
 [user]
 	email = january.amanda@gmail.com
-	name = January Amanda
+	name = January Murniadi
 [filter "lfs"]
 	process = git-lfs filter-process
 	required = true
